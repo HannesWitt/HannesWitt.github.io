@@ -32,7 +32,7 @@ J. Forsting\*, J. Kraxner\*, H. Witt\*, A. Janshoff, and S. Köster, *Nano Lett.
 - Adhesion Strategies of Dictyostelium Discoideum - a Force Spectroscopy Study  
 N. Kamprad, H. Witt, M. Schröder, C. T. Kreis, O. Bäumchen, A. Janshoff, and M. Tarantola, *Nanoscale* 10, 22504-22519, **2018**.
 
-- Viscoelastic Properties of Vimentin Originate From Nonequilibrium Conformational Changes
+- Viscoelastic Properties of Vimentin Originate From Nonequilibrium Conformational Changes  
 J. Block\*, H. Witt\*, A. Candelli, J. Cabanas Danes, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Sci. Adv.* 4, eaat1161, **2018**.
 
 - Nonlinear Loading-Rate-Dependent Force Response of Individual Vimentin Intermediate Filaments to Applied Strain  
