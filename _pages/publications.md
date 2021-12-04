@@ -13,7 +13,7 @@ Here you can find my scientific publications sorted by topic. Asterisks \* mark 
 ## Chromosome organization and dynamics
 
 - The Mechanics of Mitotic Chromosomes  
-T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.*, 54, E10, review article, **2021**.  
+T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.* (review article), 54, E10, **2021**.  
 
 ## Cell mechanics and intermediate filaments
 
@@ -41,13 +41,16 @@ J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, 
 ## Lipid bilayers
 
 - Membrane fusion studied by colloidal probes  
-H. Witt\*, F. Savić\*, S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* 50, 223–237, review article, **2021**.
+H. Witt\*, F. Savić\*, S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* (review article) 50, 223–237, **2021**.
  
 - Precipitation of Calcium Carbonate Inside Giant Unilamellar Vesicles Composed of Fluid-Phase Lipids  
 H. Witt, N. Yandrapalli, M. Sari, L. Turco, T. Robinson, and C. Steinem, *Langmuir* 36, 44, 13244–13250 **2020**.  
 
 - Detachment of Giant Liposomes – Coupling of Receptor Mobility and Membrane Shape  
 H. Witt\*, M. Vache\*, A. Cordes, and A. Janshoff, *Soft Matter* 16, 6424, **2020**.  
+
+- Using Force Spectroscopy to Probe Coiled-Coil Assembly and Membrane Fusion  
+H. Witt and A. Janshoff, *SNAREs: Methods and Protocols, Methods in Molecular Biology* (Book chapter), vol. 1860, 145-159, 2019.
 
 - The Nonbilayer Lipid MGDG and the Major Light-Harvesting Complex (LHCII) Promote Membrane Stacking in Supported Lipid Bilayers  
 D. Seiwert, H. Witt, S. Ritz, A. Janshoff, and H. Paulsen, *Biochemistry* 57, 2278-2288, **2018**.
