@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you can find my scientific publications sorted by topic. * mark shared first authors. {% if author.googlescholar %}
+Here you can find my scientific publications sorted by topic. Asterisks* mark shared first authors. {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
