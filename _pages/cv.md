@@ -18,7 +18,7 @@ redirect_from:
 
 ## Education
 
-- 2011–2013: **Studies of Chemistry (M.Sc.)**, with distinction, Georg-August-Universität Göttingen  
+- 2011–2013: **Studies of Chemistry (M.Sc.)**, *with distinction*, Georg-August-Universität Göttingen  
 - 2009–2011: **Studies of Chemistry (B.Sc.)**, Georg-August-Universität Göttingen  
 - 2008–2009: **Studies of Chemistry**, Jacobs University Bremen  
 - 2007–2008: **Civil service**, Therapeutic day-care center “Stark” Verden (Aller)  
