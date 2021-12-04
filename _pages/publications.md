@@ -5,14 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you can find my scientific publications sorted by topic.
+Here you can find my scientific publications sorted by topic. * mark shared first authors. {% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 
 ## Chromosome organization and dynamics
 
 The Mechanics of Mitotic Chromosomes  
 T. Man*, H. Witt*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.*, 54, E10, review article, **2021**.  
 
-### Cell mechanics and intermediate filaments
+## Cell mechanics and intermediate filaments
 
 Prestress and Area Compressibility of Actin Cortices Determine the Viscoelastic Response of Living Cells  
 A. Cordes, H. Witt, A. Gallemí-Pérez, B. Brückner, F. Grimm, M. Vache, T. Oswald, J. Bodenschatz, D. Flormann, F. Lautenschläger, M. Tarantola, and A. Janshoff, *Phys. Rev. Lett.* 125, 068101 **2020**.  
@@ -35,7 +38,7 @@ J. Block*, H. Witt*, A. Candelli, J. Cabanas Danes, E. J. G. Peterman, G. J. L. 
 Nonlinear Loading-Rate-Dependent Force Response of Individual Vimentin Intermediate Filaments to Applied Strain  
 J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Phys. Rev. Lett.* 118, 048101, **2017**.  
 
-### Lipid bilayers
+## Lipid bilayers
 
 Membrane fusion studied by colloidal probes  
 H. Witt*, F. Savić*, S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* 50, 223–237, review article, **2021**.
@@ -58,12 +61,9 @@ M. Oelkers*, H. Witt*, P. Halder, R. Jahn, and A. Janshoff, *Proc. Natl. Acad. S
 Size, Kinetics, and Free Energy of Clusters Formed by Ultraweak Carbohydrate-Carbohydrate Bonds  
 H. Witt, F. Savic, M. Oelkers, S. I. Awan, D. B. Werz, B. Geil, and A. Janshoff, *Biophys. J.* 110, 1582–1592, **2016**.  
 
-### Completely unrelated
+## Completely unrelated
 
 A Versatile Dinucleating Ligand Containing Sulfonamide Groups  
 J. Sundberg, H. Witt, L. Cameron, M. Håkansson, J. Bendix, and C. J. McKenzie, *Inorg. Chem.* 53, 2873-2882, **2014**.
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
