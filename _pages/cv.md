@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Research experience
-======
+
 - Since 2020: **PostDoc**, Vrije Universiteit Amsterdam, Physics of Living Systems and LaserLab, Advisor: Prof. Dr. Gijs Wuite    
 - 2018–2020: **PostDoc**, Georg-August-Universität Göttingen and Max Planck Institute for Dynamics and Self-Organization, Advisor: Prof. Dr. Claudia Steinem   
 - 2014–2017: **Ph.D. Studies**, *summa cum laude*, Georg-August-Universität Göttingen, Advisor: Prof. Dr. Andreas Janshoff  
 - 2012–2013: **Research stay**, Syddansk Universitet Odense (Denmark), Advisor: Prof. Dr. Christine McKenzie  
 
 ## Education
-======
+
 - 2011–2013: **Studies of Chemistry (M.Sc.)**, with distinction, Georg-August-Universität Göttingen  
 - 2009–2011: **Studies of Chemistry (B.Sc.)**, Georg-August-Universität Göttingen  
 - 2008–2009: Studies of Chemistry, Jacobs University Bremen  
@@ -25,7 +25,7 @@ redirect_from:
 - 2007: Abitur, Domgymnasium Verden (Aller)  
   
 ## Funding, Awards and Fellowships
-======
+
 - 2021–2023: Deutsche Forschungsgemeinschaft Research Fellowship  
 - 2020: Bundesministerium für Bildung und Forschung Prototype Fund (to Labhive)  
 - 2020: #WirvsVirus Solution Enabler (to Labhive)  
@@ -33,7 +33,7 @@ redirect_from:
 - 2014–2017: Göttingen Graduate School for Neurosciences, Biophysics, and Molecular Biosciences (GGNB) Excellence Stipend  
 
 ## Teaching
-======
+
 - Supervision of 4 master’s thesis projects in Physics, Biomedical Technology and Physics, Biochemistry, and Material Sciences.  
 - Supervision of 5 bachelor’s thesis projects in Biomedical Sciences, Medical Natural Sciences, Biochemistry, and Chemistry.  
 - “Atomic Force Microscopy vs. Scanning Ion Conductance Microscopy”, handson course for doctoral students, course instructor (summer terms 2015 and 2016).  
@@ -41,7 +41,7 @@ redirect_from:
 - “Biophysical chemistry”, lecture for undergraduate and graduate students, teaching assistent (summer term 2014).  
 
 ## Talks
-======
+
 - 2021: “Non-linear mechanics of mitotic chromosomes” at Dutch Biophysics.  
 - 2021: “The viscoelasticity of mitotic chromosomes” at EBSA congress, Vienna (Austria).  
 - 2020: “From single filaments to many vesicles – understanding the collective behavior of biological model systems” at SFB 1027 “Physical modeling of non-equilibrium processes in biological systems” Seminar, Saarbrücken (Germany).  
