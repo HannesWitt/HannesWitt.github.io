@@ -20,9 +20,9 @@ redirect_from:
 
 - 2011–2013: **Studies of Chemistry (M.Sc.)**, with distinction, Georg-August-Universität Göttingen  
 - 2009–2011: **Studies of Chemistry (B.Sc.)**, Georg-August-Universität Göttingen  
-- 2008–2009: Studies of Chemistry, Jacobs University Bremen  
-- 2007–2008: Civil service, Therapeutic day-care center “Stark” Verden (Aller)  
-- 2007: Abitur, Domgymnasium Verden (Aller)  
+- 2008–2009: **Studies of Chemistry**, Jacobs University Bremen  
+- 2007–2008: **Civil service**, Therapeutic day-care center “Stark” Verden (Aller)  
+- 2007: **Abitur**, Domgymnasium Verden (Aller)  
   
 ## Funding, Awards and Fellowships
 
