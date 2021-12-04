@@ -7,7 +7,7 @@ author_profile: true
 
 Here you can find my scientific publications sorted by topic.
 
-### Chromosome organization and dynamics
+## Chromosome organization and dynamics
 
 The Mechanics of Mitotic Chromosomes  
 T. Man*, H. Witt*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.*, 54, E10, review article, **2021**.  
