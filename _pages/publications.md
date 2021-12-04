@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you can find my scientific publications sorted by topic. Asterisks* mark shared first authors. {% if author.googlescholar %}
+Here you can find my scientific publications sorted by topic. {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -34,7 +34,7 @@ J. Forsting[^1], J. Kraxner[^1], H. Witt[^1], A. Janshoff, and S. Köster, *Nano
 N. Kamprad, H. Witt, M. Schröder, C. T. Kreis, O. Bäumchen, A. Janshoff, and M. Tarantola, *Nanoscale* 10, 22504-22519, **2018**.
 
 - Viscoelastic Properties of Vimentin Originate From Nonequilibrium Conformational Changes
-J. Block*, H. Witt*, A. Candelli, J. Cabanas Danes, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Sci. Adv.* 4, eaat1161, **2018**.
+J. Block[^1], H. Witt[^1], A. Candelli, J. Cabanas Danes, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Sci. Adv.* 4, eaat1161, **2018**.
 
 - Nonlinear Loading-Rate-Dependent Force Response of Individual Vimentin Intermediate Filaments to Applied Strain  
 J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Phys. Rev. Lett.* 118, 048101, **2017**.  
@@ -42,22 +42,22 @@ J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, 
 ## Lipid bilayers
 
 - Membrane fusion studied by colloidal probes  
-H. Witt*, F. Savić*, S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* 50, 223–237, review article, **2021**.
+H. Witt[^1], F. Savić[^1], S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* 50, 223–237, review article, **2021**.
  
 - Precipitation of Calcium Carbonate Inside Giant Unilamellar Vesicles Composed of Fluid-Phase Lipids  
 H. Witt, N. Yandrapalli, M. Sari, L. Turco, T. Robinson, and C. Steinem, *Langmuir* 36, 44, 13244–13250 **2020**.  
 
 - Detachment of Giant Liposomes – Coupling of Receptor Mobility and Membrane Shape  
-H. Witt*, M. Vache*, A. Cordes, and A. Janshoff, *Soft Matter* 16, 6424, **2020**.  
+H. Witt[^1], M. Vache[^1], A. Cordes, and A. Janshoff, *Soft Matter* 16, 6424, **2020**.  
 
 - The Nonbilayer Lipid MGDG and the Major Light-Harvesting Complex (LHCII) Promote Membrane Stacking in Supported Lipid Bilayers  
 D. Seiwert, H. Witt, S. Ritz, A. Janshoff, and H. Paulsen, *Biochemistry* 57, 2278-2288, **2018**.
 
 - The Non-Bilayer Lipid MGDG Stabilizes the Major Light-Harvesting Complex (LHCII) Against Unfolding  
-D. Seiwert*, H. Witt*, A. Janshoff, and H. Paulsen, *Sci. Rep.* 7, 5158, **2017**.  
+D. Seiwert[^1], H. Witt[^1], A. Janshoff, and H. Paulsen, *Sci. Rep.* 7, 5158, **2017**.  
 
 - SNARE-Mediated Membrane Fusion Trajectories Derived from Force-Clamp Experiments  
-M. Oelkers*, H. Witt*, P. Halder, R. Jahn, and A. Janshoff, *Proc. Natl. Acad. Sci. USA* 110, 1582–1592, **2016**.  
+M. Oelkers[^1], H. Witt[^1], P. Halder, R. Jahn, and A. Janshoff, *Proc. Natl. Acad. Sci. USA* 110, 1582–1592, **2016**.  
 
 - Size, Kinetics, and Free Energy of Clusters Formed by Ultraweak Carbohydrate-Carbohydrate Bonds  
 H. Witt, F. Savic, M. Oelkers, S. I. Awan, D. B. Werz, B. Geil, and A. Janshoff, *Biophys. J.* 110, 1582–1592, **2016**.  
