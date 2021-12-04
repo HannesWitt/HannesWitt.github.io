@@ -13,8 +13,9 @@ Here you can find my scientific publications sorted by topic. Asterisks* mark sh
 ## Chromosome organization and dynamics
 
 - The Mechanics of Mitotic Chromosomes  
-T. Man*, H. Witt*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.*, 54, E10, review article, **2021**.  
+T. Man[^1], H. Witt[^1], E. Peterman, G. Wuite, *Quart. Rev. Biophys.*, 54, E10, review article, **2021**.  
 
+[^1]: Authors contributed equally
 ## Cell mechanics and intermediate filaments
 
 - Prestress and Area Compressibility of Actin Cortices Determine the Viscoelastic Response of Living Cells  
@@ -27,7 +28,7 @@ H. Kim, H. Witt, T. Oswald, and M. Tarantola, *ACS Appl. Mater. Interfaces* 12, 
 C. Lorenz, J. Forsting, A. V. Schepers, J. Kraxner, S. Bauch, H. Witt, S. Klumpp, and S. Köster, *Phys. Rev. Lett.* 123, 188102, **2019**.  
 
 - Vimentin Intermediate Filaments Undergo Irreversible Conformational Changes During Cyclic Loading  
-J. Forsting*, J. Kraxner*, H. Witt*, A. Janshoff, and S. Köster, *Nano Lett.* 19, 7349-7356, **2019**.
+J. Forsting[^1], J. Kraxner[^1], H. Witt[^1], A. Janshoff, and S. Köster, *Nano Lett.* 19, 7349-7356, **2019**.
 
 - Adhesion Strategies of Dictyostelium Discoideum - a Force Spectroscopy Study  
 N. Kamprad, H. Witt, M. Schröder, C. T. Kreis, O. Bäumchen, A. Janshoff, and M. Tarantola, *Nanoscale* 10, 22504-22519, **2018**.
