@@ -34,9 +34,9 @@ redirect_from:
 
 ## Teaching
 
-- Supervision of 4 master’s thesis projects in Physics, Biomedical Technology and Physics, Biochemistry, and Material Sciences.  
-- Supervision of 5 bachelor’s thesis projects in Biomedical Sciences, Medical Natural Sciences, Biochemistry, and Chemistry.  
-- “Atomic Force Microscopy vs. Scanning Ion Conductance Microscopy”, handson course for doctoral students, course instructor (summer terms 2015 and 2016).  
+- Supervision of 4 master’s thesis projects in Physics, *Biomedical Technology and Physics*, Biochemistry, and Material Sciences.  
+- Supervision of 5 bachelor’s thesis projects in Biomedical Sciences, *Medical Natural Sciences*, Biochemistry, and Chemistry.  
+- “Atomic Force Microscopy vs. Scanning Ion Conductance Microscopy”, hands-on course for doctoral students, course instructor (summer terms 2015 and 2016).  
 - “Physical chemistry”, lab course for undergraduate students, teaching assistent (winter terms 2013/2014 and 2014/2015).  
 - “Biophysical chemistry”, lecture for undergraduate and graduate students, teaching assistent (summer term 2014).  
 
