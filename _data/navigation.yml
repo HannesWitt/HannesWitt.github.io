@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Other activities"
-    url: /other/
-        
   - title: "CV"
     url: /cv/
     
+  - title: "Outreach"
+    url: /outreach/
+        
   - title: "Friends and family"
     url: /friends/
