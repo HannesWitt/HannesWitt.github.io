@@ -12,30 +12,30 @@ Here you can find my scientific publications sorted by topic. Asterisks \* mark 
 
 ## Chromosome organization and dynamics
 
-- The Mechanics of Mitotic Chromosomes  
+- The Mechanics of mitotic chromosomes  
 T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.* (review article), 54, E10, **2021**.  
 
 ## Cell mechanics and intermediate filaments
 
-- Prestress and Area Compressibility of Actin Cortices Determine the Viscoelastic Response of Living Cells  
+- Prestress and area compressibility of actin cortices determine the viscoelastic response of living cells  
 A. Cordes, H. Witt, A. Gallemí-Pérez, B. Brückner, F. Grimm, M. Vache, T. Oswald, J. Bodenschatz, D. Flormann, F. Lautenschläger, M. Tarantola, and A. Janshoff, *Phys. Rev. Lett.* 125, 068101 **2020**.  
 
-- Adhesion of Epithelial Cells to PNIPAm Treated Surfaces for Temperature-Controlled Cell Sheet Harvesting  
+- Adhesion of epithelial cells to PNIPAm treated surfaces for temperature-controlled cell sheet harvesting  
 H. Kim, H. Witt, T. Oswald, and M. Tarantola, *ACS Appl. Mater. Interfaces* 12, 30, 33516–33529 **2020**.  
 
-- Lateral Subunit Coupling Determines Intermediate Filament Mechanics  
+- Lateral subunit coupling determines intermediate filament mechanics  
 C. Lorenz, J. Forsting, A. V. Schepers, J. Kraxner, S. Bauch, H. Witt, S. Klumpp, and S. Köster, *Phys. Rev. Lett.* 123, 188102, **2019**.  
 
-- Vimentin Intermediate Filaments Undergo Irreversible Conformational Changes During Cyclic Loading  
+- Vimentin intermediate filaments undergo irreversible conformational changes during cyclic loading  
 J. Forsting\*, J. Kraxner\*, H. Witt\*, A. Janshoff, and S. Köster, *Nano Lett.* 19, 7349-7356, **2019**.
 
-- Adhesion Strategies of Dictyostelium Discoideum - a Force Spectroscopy Study  
+- Adhesion strategies of Dictyostelium discoideum - a force spectroscopy study  
 N. Kamprad, H. Witt, M. Schröder, C. T. Kreis, O. Bäumchen, A. Janshoff, and M. Tarantola, *Nanoscale* 10, 22504-22519, **2018**.
 
-- Viscoelastic Properties of Vimentin Originate From Nonequilibrium Conformational Changes  
+- Viscoelastic properties of vimentin originate From nonequilibrium conformational changes  
 J. Block\*, H. Witt\*, A. Candelli, J. Cabanas Danes, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Sci. Adv.* 4, eaat1161, **2018**.
 
-- Nonlinear Loading-Rate-Dependent Force Response of Individual Vimentin Intermediate Filaments to Applied Strain  
+- Nonlinear loading-rate-dependent force response of individual vimentin intermediate filaments to applied strain  
 J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, and S. Köster, *Phys. Rev. Lett.* 118, 048101, **2017**.  
 
 ## Lipid bilayers
@@ -43,30 +43,30 @@ J. Block, H. Witt, A. Candelli, E. J. G. Peterman, G. J. L. Wuite, A. Janshoff, 
 - Membrane fusion studied by colloidal probes  
 H. Witt\*, F. Savić\*, S. Verbeek, J. Dietz, G. Tarantola, M. Oelkers, B. Geil, and A. Janshoff, *Eur. Biophys. J.* (review article) 50, 223–237, **2021**.
  
-- Precipitation of Calcium Carbonate Inside Giant Unilamellar Vesicles Composed of Fluid-Phase Lipids  
+- Precipitation of calcium carbonate inside giant inilamellar vesicles composed of fluid-phase lipids  
 H. Witt, N. Yandrapalli, M. Sari, L. Turco, T. Robinson, and C. Steinem, *Langmuir* 36, 44, 13244–13250 **2020**.  
 
-- Detachment of Giant Liposomes – Coupling of Receptor Mobility and Membrane Shape  
+- Detachment of giant liposomes – coupling of receptor mobility and membrane shape  
 H. Witt\*, M. Vache\*, A. Cordes, and A. Janshoff, *Soft Matter* 16, 6424, **2020**.  
 
-- Using Force Spectroscopy to Probe Coiled-Coil Assembly and Membrane Fusion  
+- Using force spectroscopy to probe coiled-coil assembly and membrane fusion  
 H. Witt and A. Janshoff, *SNAREs: Methods and Protocols, Methods in Molecular Biology* (Book chapter), vol. 1860, 145-159, 2019.
 
-- The Nonbilayer Lipid MGDG and the Major Light-Harvesting Complex (LHCII) Promote Membrane Stacking in Supported Lipid Bilayers  
+- The nonbilayer lipid MGDG and the major light-harvesting complex (LHCII) promote membrane stacking in supported lipid bilayers  
 D. Seiwert, H. Witt, S. Ritz, A. Janshoff, and H. Paulsen, *Biochemistry* 57, 2278-2288, **2018**.
 
-- The Non-Bilayer Lipid MGDG Stabilizes the Major Light-Harvesting Complex (LHCII) Against Unfolding  
+- The non-bilayer lipid MGDG stabilizes the major light-harvesting complex (LHCII) against unfolding  
 D. Seiwert\*, H. Witt\*, A. Janshoff, and H. Paulsen, *Sci. Rep.* 7, 5158, **2017**.  
 
-- SNARE-Mediated Membrane Fusion Trajectories Derived from Force-Clamp Experiments  
+- SNARE-mediated membrane fusion trajectories derived from force-clamp experiments  
 M. Oelkers\*, H. Witt\*, P. Halder, R. Jahn, and A. Janshoff, *Proc. Natl. Acad. Sci. USA* 110, 1582–1592, **2016**.  
 
-- Size, Kinetics, and Free Energy of Clusters Formed by Ultraweak Carbohydrate-Carbohydrate Bonds  
+- Size, kinetics, and free energy of clusters formed by ultraweak carbohydrate-carbohydrate bonds  
 H. Witt, F. Savic, M. Oelkers, S. I. Awan, D. B. Werz, B. Geil, and A. Janshoff, *Biophys. J.* 110, 1582–1592, **2016**.  
 
 ## Completely unrelated
 
-- A Versatile Dinucleating Ligand Containing Sulfonamide Groups  
+- A versatile dinucleating ligand containing sulfonamide groups  
 J. Sundberg, H. Witt, L. Cameron, M. Håkansson, J. Bendix, and C. J. McKenzie, *Inorg. Chem.* 53, 2873-2882, **2014**.
 
 
