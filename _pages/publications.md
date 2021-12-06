@@ -10,7 +10,7 @@ Here you can find my scientific publications sorted by topic. Asterisks \* mark 
 {% endif %}
 
 
-## Chromosome organization and dynamics
+## Chromosome mechanics and organization
 
 - The Mechanics of mitotic chromosomes  
 T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.* (review article), 54, E10, **2021**.  
