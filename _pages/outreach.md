@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-I try to explain science to the general audience on twitter on [my own account](https://twitter.com/hannes_elefant) and on the [account of Labhive](https://twitter.com/lab_hive). Here I link some of my tweets and threats (mostly in German).
+I try to explain science to the general audience on twitter on [my own account](https://twitter.com/hannes_elefant) and on the [account of Labhive](https://twitter.com/lab_hive). Here, I link some of my tweets and threats (mostly in German).
 
 In this thread I explain the stability of the gulf stream.
 <blockquote class="twitter-tweet"><p lang="de" dir="ltr">Jede:r hat die Überschriften über das Abschwächen des Golfstroms gesehen, aber wahrscheinlich hat kaum jemand den originalen Artikel gelesen. Ich hab das gemacht und erkläre hier kurz was ich dabei gelernt habe und wie Niklas Boers auf sein Ergebnis kommt.<a href="https://t.co/6TkYpiVzpO">https://t.co/6TkYpiVzpO</a></p>&mdash; Hannes Witt (@hannes_elefant) <a href="https://twitter.com/hannes_elefant/status/1424312979974131715?ref_src=twsrc%5Etfw">August 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
