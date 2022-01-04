@@ -27,5 +27,5 @@ author_profile: true
 
 ### My siblings working on real, important problems
 
-- [Wiebke Witt](https://beyond-coal.eu/sitepersons/wiebke-witt/), campaigner at Europe beyond coal
-- [Dr. med. Carl Witt](https://www2.medizin.uni-greifswald.de/neurolog/klinik/mitarbeiter/dr-med-carl-witt/), neurologist at Universitätsmedizin Greifswald
+- [Wiebke Witt](https://beyond-coal.eu/sitepersons/wiebke-witt/), Campaigner at Europe beyond coal
+- [Dr. med. Carl Witt](https://www2.medizin.uni-greifswald.de/neurolog/klinik/mitarbeiter/dr-med-carl-witt/), Neurologist at Universitätsmedizin Greifswald
