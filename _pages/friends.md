@@ -5,4 +5,6 @@ permalink: /friends/
 author_profile: true
 ---
 
-Here you will soon find links to my (academic) friends and family.
+## Current and past laboratories/supervisors
+
+- (Prof. Dr. Gijs Wuite, Physics of living systems, Vrije Universiteit Amsterdam)[https://www.gijswuite.com/]
