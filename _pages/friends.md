@@ -23,6 +23,7 @@ author_profile: true
 
 - [Prof. Dr. Ivan Milic](https://experts.colorado.edu/display/fisid_164960), University of Boulder Colorado (solar physics)
 - [Dr. Fabian Diedrich](https://fisica.ufro.cl/dr-fabian-dietrich.html), University of Frontera (computational chemistry)
+- [Dr. Jan Gewecke](https://www.mpinat.mpg.de/person/33360/105969), Max-Planck institute for biophysical chemistry (physical chemistry at surfaces)
 
 ### My siblings working on real, important problems
 
