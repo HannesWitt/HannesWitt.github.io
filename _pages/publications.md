@@ -12,6 +12,9 @@ Here you can find my scientific publications sorted by topic. Asterisks \* mark 
 
 ## Chromosome mechanics and organization
 
+- CENP-B-mediated DNA loops regulate activity and stability of human centromeres
+F. Chardon*, A. Japaridze*, H. Witt, L. Velikovsky, C. Chakraborty, T. Wilhelm, M. Dumont, W. Yang, C. Kikuti, S. Gangnard, A.-S. Mace, G. Wuite, C. Dekker, and D. Fachinetti, *Mol. Cell*, in press, **2022**.
+
 - The Mechanics of mitotic chromosomes  
 T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.* (review article), 54, E10, **2021**.  
 
@@ -50,7 +53,7 @@ H. Witt, N. Yandrapalli, M. Sari, L. Turco, T. Robinson, and C. Steinem, *Langmu
 H. Witt\*, M. Vache\*, A. Cordes, and A. Janshoff, *Soft Matter* 16, 6424, **2020**.  
 
 - Using force spectroscopy to probe coiled-coil assembly and membrane fusion  
-H. Witt and A. Janshoff, *SNAREs: Methods and Protocols, Methods in Molecular Biology* (Book chapter), vol. 1860, 145-159, 2019.
+H. Witt and A. Janshoff, *SNAREs: Methods and Protocols, Methods in Molecular Biology* (Book chapter), vol. 1860, 145-159, **2019**.
 
 - The nonbilayer lipid MGDG and the major light-harvesting complex (LHCII) promote membrane stacking in supported lipid bilayers  
 D. Seiwert, H. Witt, S. Ritz, A. Janshoff, and H. Paulsen, *Biochemistry* 57, 2278-2288, **2018**.
