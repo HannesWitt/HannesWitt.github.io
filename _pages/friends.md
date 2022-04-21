@@ -18,6 +18,7 @@ author_profile: true
 - [Prof. Dr. Sarah Köster](https://www.uni-goettingen.de/de/91107.html), Cellular biophysics, University of Göttingen
 - [Prof. Dr. Hyejeong Kim](https://koreauniv.pure.elsevier.com/en/persons/hyejeong-kim), now School of mechanical engineering, Korea University
 - [Prof. Dr. Harald Paulson](https://iabserv.biologie.uni-mainz.de/arbeitsgruppen/ag-paulsen/), Institute for molecular physiology, University of Mainz
+- [Dr. Daniele Fachinetti](https://institut-curie.org/personne/daniele-fachinetti), Molecular Mechanisms of Chromosome Dynamics, Institute Curie, Paris
 - [Dr. Marco Tarantola](https://www.lfpn.ds.mpg.de/biophysics/home.html), Max-Planck institute for dynamics and self-organization, Göttingen
 
 ### Academic friends in other fields
