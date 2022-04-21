@@ -14,6 +14,7 @@ author_profile: true
 ### Current and past collaborators, colleagues, etc.
 
 - [Prof. Dr. Erwin Peterman](https://www.nat.vu.nl/~erwinp/), Physics of living systems, Vrije Universiteit Amsterdam
+- [Prof. Dr. Chase Broedersz](https://broederszgroup.com/members/chase-broedersz/), Physics of living systems, Vrije Universiteit Amsterdam
 - [Prof. Dr. Ian Hickson](https://icmm.ku.dk/english/research-groups/hickson-group/), Department of cellular and molecular medicine, University of Copenhagen
 - [Prof. Dr. Sarah Köster](https://www.uni-goettingen.de/de/91107.html), Cellular biophysics, University of Göttingen
 - [Prof. Dr. Hyejeong Kim](https://koreauniv.pure.elsevier.com/en/persons/hyejeong-kim), now School of mechanical engineering, Korea University
