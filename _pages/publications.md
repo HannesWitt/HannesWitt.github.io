@@ -12,8 +12,11 @@ Here you can find my scientific publications sorted by topic. Asterisks \* mark 
 
 ## Chromosome mechanics and organization
 
+- Nonlinear mechanics of human mitotic chromosomes  
+A. Meijering\*, Kata Sarlós\*, C. Nielsen\*, H. Witt, J. Harju, E. Kerklingh, G. Haasnoot, A. Bizard, I. Heller, C. Broedersz, Y. Liu, E. Peterman, I. Hickson, and G. Wuite , *Nature*, 605, 545–550, **2022**.
+
 - CENP-B-mediated DNA loops regulate activity and stability of human centromeres  
-F. Chardon\*, A. Japaridze\*, H. Witt, L. Velikovsky, C. Chakraborty, T. Wilhelm, M. Dumont, W. Yang, C. Kikuti, S. Gangnard, A.-S. Mace, G. Wuite, C. Dekker, and D. Fachinetti, *Mol. Cell*, in press, **2022**.
+F. Chardon\*, A. Japaridze\*, H. Witt, L. Velikovsky, C. Chakraborty, T. Wilhelm, M. Dumont, W. Yang, C. Kikuti, S. Gangnard, A.-S. Mace, G. Wuite, C. Dekker, and D. Fachinetti, *Mol. Cell*, 82, 9, 1751-1767, **2022**.
 
 - The Mechanics of mitotic chromosomes  
 T. Man\*, H. Witt\*, E. Peterman, G. Wuite, *Quart. Rev. Biophys.* (review article), 54, E10, **2021**.  
